@@ -19,9 +19,9 @@
 192.168.1.255
 ```
 
-- How many end devices can our network support?
+- How many end devices can our network support?<br>
     Network bits =24
     Host bits = 8
-    Hence, supported end devices= 2<sub>8-2=254
+    Hence, supported end devices= 2<sup>8</sup> -2=254
 
     -Subtracted 2 cause one for Network Address and one for Broadcast Address
