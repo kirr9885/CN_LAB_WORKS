@@ -1,0 +1,6 @@
+Q1. What is your ip address?
+    Ans : 192.168.16.102
+Q2. Subnet Mask
+    Ans : 255.255.255.0
+Q3. Network address
+    Ans : 192.168.
