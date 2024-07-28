@@ -2,7 +2,7 @@
 Capture File Uploading on Web app in Wireshark
 
 ## What occured:
-An web app using Flask is created in this task. The web app allows user to upload file and save them to local storage.
+An web app made using Flask is created in this task. The web app allows user to upload file and save them to local storage.
 
 ## How to capture in Wireshark
 - Open Wireshark
